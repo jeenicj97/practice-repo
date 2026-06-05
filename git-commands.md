@@ -25,4 +25,4 @@ $ git config --global user.email "jeenicj97@gmail.com"
   Displays commit history.
 
 - git log --oneline
-
+  Compact history
