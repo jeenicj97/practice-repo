@@ -24,3 +24,5 @@ $ git config --global user.email "jeenicj97@gmail.com"
 - git log  
   Displays commit history.
 
+- git log --oneline
+
